@@ -1,5 +1,5 @@
 # Gender_classify
-Все комментарии по модели нейронной сети есть kaggle - https://www.kaggle.com/nikitazakharov/notebook4d3d74d911/ , лучше смотреть имеено там, а не в гитхабе
+Все мои комментарии по модели нейронной сети есть на kaggle - https://www.kaggle.com/nikitazakharov/notebook4d3d74d911/ , лучше смотреть имеено там, а не в гитхабе
 
 findmaxsubarray.ipynb - 1 задание
 
